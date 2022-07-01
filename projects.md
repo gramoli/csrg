@@ -62,3 +62,8 @@ consists of minimizing the time it takes to order transactions to avoid slowing 
 - [BA: Ordered Reliable Broadcast and Fast Ordered Byzantine Consensus for Cryptocurrency](https://drops.dagstuhl.de/opus/volltexte/2021/14865/pdf/LIPIcs-DISC-2021-63.pdf).
 P. Zarbafian, V. Gramoli:
 35th International Symposium on Distributed Computing (DISC), 2021. [video](https://youtu.be/DYN1jifeWGY)
+
+- [The Blockchain Anomaly](../../pubs/Blockchain_Anomaly.pdf).
+C Natoli, V Gramoli.
+15th IEEE International Symposium on Network Computing and Applications (NCA), 2016.
+
