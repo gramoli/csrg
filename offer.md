@@ -1,7 +1,7 @@
 ## Postdoc Position
 
 The University of Sydney is recruiting a Postdoctoral Fellow to conduct and lead research in the field of distributed systems. 
-The postdoc successful candidate join the [Concurrent Systems Research Group (CSRG)](https://gramoli.github.io/csrg/) at the 
+The successful candidate will join the [Concurrent Systems Research Group (CSRG)](https://gramoli.github.io/csrg/) at the 
 University of Sydney for one to three years to work on problems related to blockchain technologies.  
 
 CSRG is doing research on highly secure blockchain technologies. CSRG designed the Red Belly Blockchain, a scalable blockchain 
