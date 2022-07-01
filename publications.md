@@ -1,5 +1,3 @@
-[Home](index) | [Projects](projects) | [Software](software) | [Publications](publications)
-
 ## Selected Publications
 
 - [BA: Holistic Verification of Blockchain Consensus](../../pubs/formal-verif.pdf).
