@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+[Home](index) | [Projects](projects) | [Software](software) | [Publications](publications)
 
-You can use the [editor on GitHub](https://github.com/gramoli/csrg/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## CSRG
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At the Concurrent Systems Research Group (CSRG), we are interested in different aspects of distributed computing, from the shared memory model, including chip multiprocessors and synchronization, to the message passing model, including fault-tolerance and consensus.
 
-### Markdown
+CSRG is headed by [Vincent Gramoli](https://gramoli.github.io) and is located at the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) at the [University of Sydney](https://www.sydney.edu.au/), in Australia.
+In 2021, our Computer Science and Engineering department was ranked 38th in the world according to the [Shanghai ranking](https://www.shanghairanking.com/rankings/gras/2021/RS0210).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Positions
+If you want to apply as a postdoctotal fellow, please write an email to [csrg.sydney@gmail.com](csrg.sydney@gmail.com) attaching:
+ * your CV, 
+ * a list of your publications,
+ * the contact details of the two persons who accepted to be contacted for reference checks.
 
-```markdown
-Syntax highlighted code block
+If you want to apply for the PhD pogram, please get familiar with the [process](https://www.sydney.edu.au/study/study-options/postgraduate-research.html) before sending an email to [csrg.sydney@gmail.com](csrg.sydney@gmail.com) with your CV and transcript(s).
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gramoli/csrg/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
