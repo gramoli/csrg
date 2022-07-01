@@ -3,7 +3,7 @@
 ### Reducing Blockchain Bottlenecks
 The number of cryptographic verifications used in blockchains leads to performance bottlenecks. By reducing 
 the number of verifications needed in the blockchain protocols, either by sharding the verification or 
-by reducing the propagation of transactions in the network is key to accelerate the processing of transactions.
+by reducing the propagation of transactions in the network, is key to accelerate the processing of transactions.
 
 - [Dynamic Blockchain Sharding](../pubs/FAB22-Sharding.pdf).
 D. Tennakoon, V. Gramoli. 
