@@ -17,7 +17,7 @@ publish scientific papers in top scientific venues. Knowledge of distributed sys
 An experience in game theory, cryptography, security or operating systems would be a plus.	
 Expected annual salary between $107K and $117K.
 
-To apply, please write an email to [mailto:csrg.sydney@gmail.com](csrg.sydney@gmail.com) with:
+To apply, please write an email to [csrg.sydney@gmail.com](mailto:csrg.sydney@gmail.com) with:
  * your CV,
  * your possible and preferred starting dates,
  * a list of your publications,
