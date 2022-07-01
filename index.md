@@ -1,5 +1,3 @@
-[Home](index) | [Projects](projects) | [Software](software) | [Publications](publications)
-
 ## CSRG
 
 At the Concurrent Systems Research Group (CSRG), we are interested in different aspects of distributed computing, from the shared memory model, including chip multiprocessors and synchronization, to the message passing model, including fault-tolerance and consensus.
