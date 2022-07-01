@@ -1,5 +1,3 @@
-[Home](index) | [Projects](projects) | [Software](software) | [Publications](publications)
-
 ## Projects
 
 ### Reducing Blockchain Bottlenecks
