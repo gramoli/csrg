@@ -8,6 +8,7 @@ In 2021, our Computer Science and Engineering department was ranked 38th in the 
 ### Positions
 If you want to apply as a postdoctotal fellow, please write an email to [csrg.sydney@gmail.com](csrg.sydney@gmail.com) attaching:
  * your CV, 
+ * your preferred starting dates,
  * a list of your publications,
  * the contact details of the two persons who accepted to be contacted for reference checks.
 
