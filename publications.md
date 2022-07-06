@@ -33,6 +33,7 @@ P. Zarbafian, V. Gramoli:
 - [Polygraph: Accountable byzantine agreement](https://eprint.iacr.org/2019/587.pdf).
 P Civit, S Gilbert, V Gramoli. 
 IEEE 41st International Conference on Distributed Computing Systems (ICDCS), 2021. [video](https://www.youtube.com/watch?v=OUPWY9SPV6Q)
+(BA in proceedings of 34th International Symposium on Distributed Computing (DISC), 2020)
 
 - [Leaderless Consensus](../../pubs/ICDCS2021-leaderless.pdf)
 K. Antoniadis, A. Desjardins, V. Gramoli, R. Guerraoui, I. Zablotchi.
