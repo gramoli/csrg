@@ -6,7 +6,7 @@ CSRG is headed by [Vincent Gramoli](https://gramoli.github.io) and is located at
 In 2021, our Computer Science and Engineering department was ranked 38th in the world according to the [Shanghai ranking](https://www.shanghairanking.com/rankings/gras/2021/RS0210).
 
 ### Positions
-If you want to apply as a postdoctotal fellow, please write an email to [csrg.sydney@gmail.com](csrg.sydney@gmail.com) attaching:
+If you want to apply as a postdoctoral fellow, please write an email to [csrg.sydney@gmail.com](csrg.sydney@gmail.com) attaching:
  * your CV, 
  * your preferred starting dates,
  * a list of your publications,
