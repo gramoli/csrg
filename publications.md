@@ -1,7 +1,24 @@
 ## Selected Publications
 
-- Basilic: Resilient Optimal Consensus Protocols With Benign and Deceitful Faults.
+- [Diablo: A Benchmark Suite for Blockchains](../../pubs/Eurosys23-Diablo.pdf). 
+V. Gramoli, R. Guerraoui, A. Lebedev, C. Natoli, G. Voron. 18th ACM European Conference on Computer Systems (EuroSys), 2023.
+
+- [Basilic: Resilient Optimal Consensus Protocols With Benign and Deceitful Faults](../../pubs/CSF23-Basilic.pdf).
 A. Ranchal-Pedrosa, V. Gramoli. IEEE Computer Security Foundations Symposium (CSF), 2023.
+
+- [Blockchain Scalability and its Foundations in Distributed Systems](https://link.springer.com/book/10.1007/978-3-031-12578-2?sap-outbound-id=01A0D4B2C34832A82322B1C66819B239A93AED40).
+V. Gramoli. Springer, ISBN:978-3-031-12577-5, 2022. [course](https://www.coursera.org/learn/blockchain-scalability)
+
+- [Leveraging Democracy to Optimize Distributed Random Beacons](../../pubs/ConsensusDay23-Kleroterion.pdf).
+A. Ranchal-Pedrosa, V. Gramoli. ACM ConsensusDay, 2022.
+
+- [Holistic Verification of Blockchain Consensus](../../pubs/DISC22-holistic-verification.pdf)
+N. Bertrand, V. Gramoli, M. Lazić, I. Konnov, P. Tholoniat, J. Widder.
+36th International Symposium on Distributed Computing (DISC), 2022.
+
+- [Byzantine Consensus is Theta(n^2): The Dolev-Reischuk Bound is Tight even in Partial Synchrony!](../../pubs/DISC22-quadratic-consensus.pdf)
+P. Civit, M. A. Dzulfikar, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, M. Vidigueira.
+36th International Symposium on Distributed Computing (DISC), 2022, **Best Student Paper Award**.
 
 - [BA: Holistic Verification of Blockchain Consensus](../../pubs/formal-verif.pdf).
 N. Bertrand, V. Gramoli, M. Lazić, I. Konnov, P. Tholoniat, J. Widder.
@@ -11,8 +28,7 @@ ACM Symposium on Distributed Computing (PODC), 2022.
 D. Tennakoon, V. Gramoli. 
 5th International Symposium on Foundations and Applications of Blockchain (FAB), 2022.
 
-- [Crime and Punishment in Distributed Byzantine
-Decision Tasks](../../pubs/ICDCS2022.pdf).
+- [Crime and Punishment in Distributed Byzantine Decision Tasks](../../pubs/ICDCS2022.pdf).
 P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, Z. Milosevic, A. Seredinschi. 
 42nd IEEE International Conference on Distributed Computing Systems (ICDCS), 2022, **Best Paper Award**.
 
