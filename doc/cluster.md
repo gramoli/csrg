@@ -1,4 +1,4 @@
-| machine | access | manufacturer | #cores | memory | OS |
+| machine | access | manuf. | #cores | mem | OS |
 | ------- | ------ | ------------ | ------ | ------ | -- |
 | apollo | fortigate-217-0.cs.usyd.edu.au:9822 | Intel | 64 | 32GB | Ubuntu 20.04.4 LTS |
 | aphrodite | fortigate-217-0.cs.usyd.edu.au:9622 | AMD | 64 | 256GB | Ubuntu 20.04.2 LTS | 
