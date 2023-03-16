@@ -15,4 +15,5 @@ If you want to apply as a postdoctoral fellow, please write an email to [csrg.sy
 If you want to apply for the PhD pogram, please get familiar with the [process](https://www.sydney.edu.au/study/study-options/postgraduate-research.html) before sending an email to [csrg.sydney@gmail.com](csrg.sydney@gmail.com) with your CV and transcript(s).
 
 
-
+### Resources
+To access the CSRG gitlab, on the University network (or VPN), access [http://csrg-gitlab.cs.usyd.edu.au](http://csrg-gitlab.cs.usyd.edu.au).
