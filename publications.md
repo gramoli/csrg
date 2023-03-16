@@ -1,5 +1,22 @@
 ## Selected Publications
 
+
+- [Cross-Chain Payment Protocols with Success Guarantees](../../pubs/DC23-CrossChain-Preprint.pdf).
+R. van Glabbeek, V. Gramoli, P. Tholoniat. 
+To appear in Distributed Computing.
+
+- [Leaderless Consensus](../../pubs/JPDC23-Leaderless-Preprint.pdf).
+K. Antoniadis, J. Benhaim, A. Desjardins, P. Elias, V. Gramoli, R. Guerraoui, G. Voron, I. Zablotchi. Journal of Parallel and Distributed Computing, 2023.
+
+- [Lyra: Fast and Scalable Resilience to Reordering Attacks in Blockchains](../../pubs/IPDPS23-Lyra.pdf).
+P. Zarbafian, V. Gramoli. 37th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023.
+
+- [Smart Redbelly Blockchain: Reducing Congestion for Web3](../../pubs/IPDPS23-SmartRedbelly.pdf). 
+D. Tennakoon, Y. Hua, V. Gramoli. 37th IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023.
+
+- [Blockchain Proportional Governance Reconfiguration: Mitigating a Governance Oligarchy](../../pubs/CCGrid23-GovernanceReconfiguration.pdf).
+The 23rd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 2023.
+
 - [Diablo: A Benchmark Suite for Blockchains](../../pubs/Eurosys23-Diablo.pdf). 
 V. Gramoli, R. Guerraoui, A. Lebedev, C. Natoli, G. Voron. 18th ACM European Conference on Computer Systems (EuroSys), 2023.
 
