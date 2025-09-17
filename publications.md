@@ -1,5 +1,49 @@
 ## Selected Publications
 
+- [STABL: The Sensitivity of Blockchains to Failures](../pubs/2025-Middleware-Stabl.pdf). V. Gramoli, R. Guerraoui, A. Lebedev, G. Voron.
+26th ACM/IFIP International Middleware Conference (Middleware), 2025.
+  
+- [Evaluating Blockchain Fault Tolerance with STABL](../pubs/2025-DSN-Stabl.pdf). V. Gramoli, R. Guerraoui, A. Lebedev, G. Voron.
+The 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2025.
+
+- [Deconstructing the Smart Redbelly Blockchain](../pubs/2024-SRBB-TC.pdf). D. Tennakoon, V. Gramoli.
+IEEE Transactions on Computers, DOI:10.1109/TC.2024.3475573, 2024.
+	
+- [Byzantine consensus is Θ(n^2): the Dolev-Reischuk bound is tight even in partial synchrony!](https://doi.org/10.1007/s00446-023-00458-w) P. Muhammad, A. Dzulfikar, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic, M. Vidigueira:
+Distributed Computing 37(2): 89-119, 2024.
+
+- [Resilience to Chain-Quality Attacks in Fair Separability](../pubs/ESORICS24-FairSeparability.pdf). V. Gramoli, Z. Lu, Q. Tang, P. Zarbafian. 
+9th European Symposium on Research in Computer Security (ESORICS), 2024.
+
+- [Blockchain Double Spending With Low Mining Power and Network Delays](../pubs/ACMDLT24.pdf). C. Natoli, P. Ekparinya, G. Jourjon, V. Gramoli. ACM Distributed Ledger Technologies (DLT), 2024. 
+
+- [ZLB: A Blockchain to Tolerate Colluding Majorities](../pubs/DSN24-ZLB.pdf). A. Ranchal-Pedrosa, V. Gramoli. 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024, **Best Paper Award**.
+
+- [AOAB: Optimal and Fair Ordering of Financial Transactions](../pubs/DSN24_AOAB_preprint.pdf). V. Gramoli, Z. Lu, Q. Tang, P. Zarbafian. 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2024.
+  
+- [Ten Myths About Blockchain Consensus](../pubs/Ten-myths-preprint.pdf). D. Hyland, J. Sousa, G. Voron, A. Bessani and V. Gramoli.
+  Blockchains Advances in Information Security, Springer, Volume 35, doi:10.1007/978-3-031-32146-7_1, 2024.
+
+- [On the Relevance of Blockchain Evaluations on
+Bare Metal](../pubs/SDLT_2023.pdf).
+A. Lebedev, V. Gramoli.
+7th Symposium on Distributed Ledger Technologies (SDLT), 2023. [related poster](../pubs/EuroSys23-SDLT23.pdf)
+
+- [Aion: Secure Transaction Ordering using TEEs](../pubs/ESORICS23-Aion.pdf).
+  P. Zarbafian, V. Gramoli.
+  8th European Symposium on Research in Computer Security (ESORICS), 2023.
+
+- [As easy as ABC: Optimal (A)ccountable (B)yzantine (C)onsensus is easy!](../pubs/JPDC2023-ABC-preprint.pdf)
+  P. Civit, S. Gilbert, V. Gramoli, R. Guerraoui, J. Komatovic.
+  Journal of Parallel and Distributed Computing (JPDC), 2023.
+
+- [How To Benchmark Permissioned Blockchains](../pubs/TPCTC2023-preprint.pdf)
+  J. A. Chacko, R. Mayer, A. Fekete, V. Gramoli and H.-A. Jacobsen.
+  15th TPC Technology Conference on Performance Evaluation & Benchmarking (TPCTC), 2023.
+
+- [The Future of Blockchain Consensus](https://dl.acm.org/doi/pdf/10.1145/3589225).
+  V. Gramoli, Q. Tang.
+  Communications of the ACM, 2023, vol 66, no 7, doi:10.1145/3589225.
 
 - [Cross-Chain Payment Protocols with Success Guarantees](../../pubs/DC23-CrossChain-Preprint.pdf).
 R. van Glabbeek, V. Gramoli, P. Tholoniat. 
