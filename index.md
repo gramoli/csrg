@@ -3,7 +3,6 @@
 At the Concurrent Systems Research Group (CSRG), we are interested in different aspects of distributed computing, from the shared memory model, including chip multiprocessors and synchronization, to the message passing model, including fault-tolerance and consensus.
 
 CSRG is headed by [Vincent Gramoli](https://gramoli.github.io) and is located at the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) at the [University of Sydney](https://www.sydney.edu.au/), in Australia.
-In 2021, our Computer Science and Engineering department was ranked 38th in the world according to the [Shanghai ranking](https://www.shanghairanking.com/rankings/gras/2021/RS0210).
 
 ### Positions
 If you want to apply as a postdoctoral fellow, please write an email to [csrg.sydney@gmail.com](csrg.sydney@gmail.com) attaching:
@@ -16,4 +15,4 @@ If you want to apply for the PhD pogram, please get familiar with the [process](
 
 
 ### Resources
-To access the CSRG gitlab, on the University network (or VPN), access [http://csrg-gitlab.cs.usyd.edu.au](http://csrg-gitlab.cs.usyd.edu.au).
+To access the CSRG github, go to [https://github.sydney.edu.au/vgramoli/csrg/wiki](https://github.sydney.edu.au/vgramoli/csrg/wiki).
